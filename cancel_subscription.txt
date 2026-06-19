@@ -1,0 +1,40 @@
+CANCELING YOUR SUBSCRIPTION
+
+HOW TO CANCEL
+
+1. Go to Settings -> Billing -> Manage Subscription.
+2. Click "Cancel Subscription."
+3. Select a cancellation reason from the dropdown (this helps us improve
+   the product).
+4. Confirm cancellation. You will receive an email confirmation.
+
+WHAT HAPPENS AFTER CANCELING
+
+- Your account remains active with full features until the end of the
+  current billing period that you already paid for.
+- After that date, the account converts to the Free plan automatically.
+  No further charges will occur.
+- Data is not deleted on cancellation. Tickets, knowledge base articles,
+  and team settings are retained for 90 days in case you wish to
+  reactivate.
+
+REACTIVATING A CANCELED SUBSCRIPTION
+
+You can reactivate at any time before the 90-day data retention window
+ends by going to Settings -> Billing -> Reactivate Subscription. All
+your historical data will be restored immediately.
+
+CANCELING DUE TO A SERVICE ISSUE
+
+If you are canceling because of an unresolved technical issue rather
+than choice, we recommend opening a support ticket first describing the
+issue. Many cancellations are avoidable once the underlying problem is
+fixed, and our team can also offer service credits for extended outages
+that affected your usage.
+
+ACCOUNT DELETION (FULL DATA REMOVAL)
+
+A full, permanent account deletion (removing all data immediately rather
+than the standard 90-day retention) is a separate, irreversible action
+and must be requested through a human support specialist to confirm
+identity and intent before proceeding.

@@ -1,0 +1,46 @@
+BILLING OVERVIEW
+
+CloudDesk bills on a monthly or annual cycle depending on the plan you
+selected at signup. This article explains how charges are calculated and
+when they occur.
+
+BILLING CYCLE
+
+- Monthly plans are billed on the same calendar day each month as your
+  original signup date. If you signed up on the 31st and a month has
+  fewer days, billing occurs on the last day of that month.
+- Annual plans are billed once per year and include a 15% discount versus
+  paying monthly.
+- All charges are processed automatically using the payment method on
+  file under Settings -> Billing -> Payment Methods.
+
+WHAT'S INCLUDED IN YOUR INVOICE
+
+Your monthly invoice includes:
+1. Base subscription fee for your plan tier (Free, Pro, or Enterprise).
+2. Seat-based charges if you have added team members beyond your plan's
+   included seats.
+3. Usage overage charges, if applicable (e.g., API calls beyond your
+   plan's included quota, calculated at $0.001 per extra call).
+4. Applicable taxes based on your billing address.
+
+PRORATION
+
+If you upgrade or downgrade your plan mid-cycle, charges are prorated to
+the day. Upgrading immediately applies the new plan and charges the
+difference for the remaining days in the cycle. Downgrading takes effect
+at the start of the next billing cycle to avoid mid-cycle service
+disruption.
+
+FAILED PAYMENTS
+
+If a payment fails, CloudDesk retries the charge 3 times over 7 days. You
+will receive an email notification after each failed attempt. If all
+retries fail, the account is moved to a 14-day grace period with limited
+functionality before suspension. Update your payment method under
+Settings -> Billing to avoid interruption.
+
+VIEWING PAST INVOICES
+
+All invoices are available as downloadable PDFs under Settings -> Billing
+-> Invoice History, going back to the start of your subscription.

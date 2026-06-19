@@ -1,0 +1,45 @@
+INVOICE AND TAX FAQ
+
+DOES CLOUDDESK CHARGE TAX?
+
+Tax is calculated based on your billing address and applicable local tax
+laws (e.g., VAT in the EU, GST in India and Australia, sales tax in
+certain US states). The applicable rate and amount are shown as a
+separate line item on every invoice before checkout.
+
+CAN I ADD MY COMPANY'S TAX ID / GSTIN / VAT NUMBER?
+
+Yes. Go to Settings -> Billing -> Tax Information and enter your tax ID.
+This will appear on all future invoices. It cannot be retroactively
+added to invoices that were already generated; for those, contact
+billing support to request a corrected invoice.
+
+HOW DO I GET A RECEIPT FOR REIMBURSEMENT?
+
+Every invoice in Settings -> Billing -> Invoice History can be downloaded
+as a PDF that includes the company name, tax ID (if added), amount,
+date, and payment method used. This is sufficient for most expense
+reimbursement and accounting purposes.
+
+WHY IS THE CHARGE AMOUNT DIFFERENT FROM MY PLAN PRICE?
+
+This usually happens for one of these reasons:
+- Proration from a mid-cycle upgrade or seat addition.
+- API usage overage charges beyond your plan's included quota.
+- Currency conversion if your card is billed in a different currency
+  than your displayed plan price.
+- Applicable tax added at checkout.
+
+CAN I GET A CONSOLIDATED INVOICE FOR MULTIPLE TEAMS?
+
+Enterprise customers managing multiple teams or sub-accounts can request
+consolidated billing, which combines all team invoices into a single
+monthly statement. This requires setup by our billing team — contact
+your account manager.
+
+DISPUTING A LINE ITEM ON AN INVOICE
+
+If you believe a specific line item is incorrect (e.g., seat count that
+doesn't match your actual team size), this requires manual review by a
+billing specialist rather than self-service correction, since it
+involves verifying account history.

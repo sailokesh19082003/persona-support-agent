@@ -1,0 +1,46 @@
+BILLING REFUND AND DISPUTE POLICY
+
+ELIGIBILITY FOR REFUNDS
+
+- Monthly subscriptions: refunds are available within 7 days of a charge
+  if the product was not used (no logins, no API calls) during that
+  billing period.
+- Annual subscriptions: refunds are available within 30 days of the
+  initial purchase on a pro-rated basis for unused months.
+- Usage-based overage charges (API overage, extra seats already
+  consumed) are non-refundable once incurred, since they reflect actual
+  resource usage.
+
+HOW TO REQUEST A REFUND
+
+1. Go to Settings -> Billing -> Invoice History.
+2. Select the relevant invoice and click "Request Refund."
+3. Choose a reason from the dropdown (accidental purchase, duplicate
+   charge, service issue, other).
+4. Refund requests are reviewed by the billing team within 2 business
+   days. Approved refunds are returned to the original payment method
+   and typically appear within 5-10 business days depending on your
+   bank.
+
+DUPLICATE CHARGES
+
+If you believe you were charged twice for the same billing period, this
+is typically caused by a retried payment after a temporarily declined
+card that was later approved on both attempts. This is fully refundable
+and should be reported immediately through the Invoice History page so
+the duplicate can be identified and reversed.
+
+CHARGEBACKS
+
+We ask customers to contact CloudDesk support before initiating a
+chargeback with their bank, since chargebacks can result in immediate
+account suspension while the dispute is investigated, even if the
+charge is later found to be valid. Most billing issues can be resolved
+faster and without service disruption through a direct refund request.
+
+ESCALATION
+
+Any refund request involving a dispute over the legitimacy of a charge,
+a chargeback already filed with a bank, or a request to delete billing
+data must be escalated to a human billing specialist rather than handled
+automatically, since these involve account-level financial decisions.
