@@ -8,6 +8,7 @@ Flow (matches the architecture diagram):
 import logging
 import os
 import re
+import time
 
 from pypdf import PdfReader
 
@@ -178,6 +179,7 @@ class RAGPipeline:
         total = len(chunks)
         for i, chunk in enumerate(chunks):
             embedding = self.get_embedding(chunk["text"])
+            time.sleep(0.7)
             chunk_id = f"{chunk['source']}::{chunk['section']}::{chunk['chunk_index']}"
             self.collection.add(
                 ids=[chunk_id],
